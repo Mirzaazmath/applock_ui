@@ -1,4 +1,7 @@
-# untitled
+# App lock UI
+
+
+<img src="https://github.com/Mirzaazmath/applock_ui/blob/main/assets/result.gif" height="400">
 
 A new Flutter project.
 
